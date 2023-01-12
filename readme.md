@@ -15,11 +15,11 @@
 - [manual_hasznalata.md] - a programok manuáljának használata
 
 
-[puska.md]: https://github.com/tatarmb4s/linux-alapok/puska.md
-[oraiJegyzetek]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/
-[dogaparancs.md]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/dogaparancs.md
-[linux_bevezeto]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/linux_bevezeto.md
-[manual_hasznalata.md]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/manual_hasznalata.md
+[puska.md]: https://github.com/tatarmb4s/linux-alapok/blob/master/puska.md
+[oraiJegyzetek]: https://github.com/tatarmb4s/linux-alapok/tree/master/oraiJegyzetek
+[dogaparancs.md]: https://github.com/tatarmb4s/linux-alapok/blob/master/oraiJegyzetek/dogaparancs.md
+[linux_bevezeto]: https://github.com/tatarmb4s/linux-alapok/blob/master/oraiJegyzetek/linux_bevezeto.md
+[manual_hasznalata.md]: https://github.com/tatarmb4s/linux-alapok/blob/master/oraiJegyzetek/manual_hasznalata.md
 
 
 # Manual használata
