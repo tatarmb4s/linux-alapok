@@ -1,0 +1,14 @@
+- Mit csinál a locate parancs, és a -i kapcsolója?
+- Mit csinál df parancs, és a -k kapcsolója?
+- Mit csinál a du parancs?
+- Mire jó a chmod parancs?
+- Mit csinál a diff -i kapcsolója?
+- Mit csinál a grep?
+- Mit csinál az ls -R kapcsolója?
+- Mire jó a less parancs?
+- Mit csinál a ps f "hosszú kapcsolója"?
+- Mit csinál a tar -c, -x, -v és -f kapcsolója?
+- Mit csinál a w -h kapcsolója?
+- Mit csinál a touch -t kapcsolója?
+- Mit csinál az uname -v kapcsolója?
+- Mit csinál a find -mount kapcsolója?

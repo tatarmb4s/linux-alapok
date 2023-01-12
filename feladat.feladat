@@ -1,0 +1,73 @@
+Kedves Űrsegédek!
+
+Kérlek segítsetek a BASH program segítségével, -ami az egész Naprendszerben mindenki számára érthető, hiszen oly egyszerű- a következő eseményeket követni.
+
+Előszöris készítsétek el a Naprendszer térképét a home könyvtáratokba! (GYK: Készítsd el a köv. fastruktúrát!)
+
+NAP
+ │
+ ├───Merkúr
+ │
+ ├───Vénusz
+ │
+ ├───Föld
+ │    │
+ │    ╰───Hold
+ │
+ ├───Mars
+ │
+ ├───Jupiter
+ │     │
+ │     ╰───Io
+ │
+ ├───Szaturnusz
+ │
+ ├───Uránusz
+ │
+ ╰───Neptunusz
+
+
+A Naprendszer három lakója PITERO a Jupiter bolygó főhercege, ENUSZIX a Vénusz bolygó királynője és SUMÁKUSZ pedig a Szaturnusz bolygón élő kém. Készíts számukra helyet a bolygójukon!  (GYK: Hozz létre egy-egy könyvtárat a fenti nevekkel a lakóhelyük szerinti könyvtárba.)
+
+Pitero-ról mindenki jól tudja a környéken, hogy szerelmes Enuszix-be. Ráadásul a bolygóközi kapcsolatoknak sem lenne rossz, ha kettejük között jó viszony lenne. Ezért Pitero levelet ír Enuszix-nek. A következő szöveggel:
+
+Enuszix, e levelem
+Elküldöm Teneked
+Mert szerelembe estem
+Hogy belegebedek.
+
+(GyK: Készítsd el a levelet PIT.ENU néven a PITERO könyvtárba)
+
+Küldd el a levelet Enuszix-nek a Vénusz-ra, de maradjon egy példány Pitero-nak is. (Gyk: készíts másolatot a PIT.ENU fájlból a ENUSZIX könyvtárba.)
+
+Enuszix elolvasta a levelet és válaszolt:
+
+Oh, Pitero
+Miért vagy te Pitero
+Dobd el nevedet
+És légy Pitere!
+
+(Gyk: Írasd ki a PIT.ENU fájlt, és készíts egy ENU.PIT nevű fájlt az ENUSZIX könyvtárba a fenti tartalommal, és másold át a PITERO könyvtárba)
+
+Mikor Pitero elolvasta a levelet (gyk: Írasd ki a fájl tartalmát!), kért egy időpontot a MARS bolygón lévő Galaktikus Névváltoztatási Hivataltól (gyk. : készíts egy PIT könyvtárat a MARS könyvtárba), és elküldte a levelet is a GNH-nak. (gyk. Másold át az ENU.PIT fájlt  LEVEL.TXT néven PIT könyvtárba) és kérvényt is írt, hogy változtassák meg a nevét. (gyk. Írd meg a kérvényt KERVENY.TXT néven a PIT könyvtárba)
+
+Amire a GNH válaszolt, és a következőket írta (gyk.: készítsd el a HATAROZA.TXT fájlt a következő tartalommal):
+
+Tisztelt Pitero úr!
+Kérésének eleget téve nevét Piterére változtatjuk, de ehhez ide kell utaznia 2008.10.14. délelőtt
+
+Üdvözlettel
+GNH
+
+(gyk: a HATAROZA.TXT-t másold a PITERO könyvtárba)
+
+Pitero miután elolvasta a levelet (gyk. Írasd ki a HATAROZA.TXT tartalmát), azonnal felhívta a Galaxisközi Tudakozót, hogy megtudja, hányadika van és hány óra. (gyk. Írasd ki a jelenlegi dátumot és időt). Miután megtudta a fenti adatokat, minden eddigi levelét kidobta (gyk. Töröld a PITERO könyvtár fájljait) és mivel nagyon sietnie kellett, ezért hiperugrást végzett. (gyk. Legyen egy paranccsal a MARS könyvtár az aktuális) Azonnal meg is történt a névváltoztatás. (gyk: Nevezd át a PITERO könyvtárat PITERE-vé.)
+--------------------------------------------
+
+Sumákusz mindezt jól kifigyelte. És titkos jelentést írt az Uránusz bolygó URANA nevű hadügyminiszterének (GYK: Készíts egy JELEN.TES nevű fájlt a SUMAKUSZ könyvtárba. Ellenőrizd, hogy sikerült-e. Készíts egy URANA könyvtárat az URANUSZ könyvtárba, és másold át a JELEN.TES fájlt ide. Majd tedd rejtetté a fájlt a SUMÁKUSZ könyvtárban!) 
+
+Urana-nak még a két levelet is elküldte, de átírt benne néhány részletet. (GYK: az ENU.PIT és PIT.ENU fájlok tartalmát változtasd meg, és másold át az URANA könyvtárba LEVEL.ONE  és LEVEL.TWO néven.)
+
+Urana Urini nevű kisunokája épp ott játszott Urana-nál a levelek érkezésekor, és repülőt hajtogatott a levelekből, és kirepítette őket a világűrbe. (gyk: Töröld le LEVEL.ONE és LEVEL.TWO és JELEN.TES fájlokat) Így Urana sosem szerzett tudomást a bimbózó szerelemről. Így aztán Pitere és Enuszix boldogan éltek, amíg meg nem haltak a FÖLD-ön. (GyK. Mozgasd át az ENUSZIX és PITERE könyvtárakat a FÖLD könyvtárba)
+
+Szívesen várom a történet folytatását!

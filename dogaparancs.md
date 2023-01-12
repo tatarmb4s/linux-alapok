@@ -1,0 +1,1 @@
+ /home/tanulo/10-tz-GY --csoport a
