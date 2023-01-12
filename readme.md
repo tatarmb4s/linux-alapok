@@ -1,3 +1,50 @@
+# Linux alapok: parancsok és miegymás
+## Néhány jó tanács
+1. Ha valamit keresel, javaslom figyelmedbe a CTRL+F kombinácót. 
+2. Nézd meg azt a file-t amilyen témában keresel, viszonylag beszédesek a file nevek.
+3. Ha nem tudod hol keress, akkor ezen az oldalon használd a CTRL+F-et, és írd be a keresett szót. Ezen bekezdések alá beillesztek mindent, amit a többi readme tartalmaz. A legtöbb hasznos infó a [puska.md] file-ban, és az [oraiJegyzetek] mappában van.
+4. A dolgokat új lapon nyisd meg ellenkező kattal, hogy ne kelljen várni az oldalak betöltését.
+5. Javaslom a stackowerflow használatát, és a google-jét, angolul, a linux + <probléma> kulcsszóval.
+6. Sok szerencsét.
+
+## Gyorslinkek:
+- [puska.md] - A legtöbb hasznos infó és parancs: pl. mappakezelés, fájlszerkeztés
+- [oraiJegyzetek] - mappa
+- [dogaparancs.md] - hasonló parancs mint ahogyan a doga megy majd
+- [linux_bevezeto] - linux bevezető
+- [manual_hasznalata.md] - a programok manuáljának használata
+
+
+[puska.md]: https://github.com/tatarmb4s/linux-alapok/puska.md
+[oraiJegyzetek]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/
+[dogaparancs.md]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/dogaparancs.md
+[linux_bevezeto]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/linux_bevezeto.md
+[manual_hasznalata.md]: https://github.com/tatarmb4s/linux-alapok/oraiJegyzetek/manual_hasznalata.md
+
+
+# Manual használata
+
+- parancs: `man`
+- kiléps: `q`
+- infó keresése: `shift+6`
+  - következő: n
+  - előző: N
+  - fel lapozás: fel nyil
+  - le lapozás: le nyil
+
+- parancs: `info`
+- ugyanúgy müxik mint a manual
+- ha nics manual jól jön illetve fordítva
+
+# puska.md
+
+### Mi az a kapcsoló?
+ - `program <szöveg> -h --help ..n`
+ - részletes és hosszú leírás arról milyen paraméterei vannak az adott parancsnak
+
+## -h
+- esetleges kapcsolók listája, nem annyira részletes
+
 ## Helpek
 - Manuál manuiáljának megnyitása: `man man`
 - Paracs manuiáljának megnyitása: `<parancs> man`
