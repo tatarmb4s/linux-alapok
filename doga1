@@ -1,0 +1,44 @@
+A feladat leírása:
+1. Egyszerű parancsok
+ a: Melyik Linux parancs segítségével lehet egy linux alapú rendszeren könyvtárat váltani? (max 3 pont)
+ b: Melyik Linux parancs segítségével lehet lehet egy fájlt törölni? (max 2 pont)
+ c: Melyik Linux parancs segítségével lehet egy üres könyvtárat törölni? (max 2 pont)
+ d: Melyik Linux parancs segítségével lehet egy könyvtárat létrehozni? (max 1 pont)
+ e: Melyik Linux parancs segítségével lehet egy parancsról részletesebb információkat megtudni? (max 1 pont)
+ f: Ha egy szöveges fájl tartalmát kell módosítani. Milyen programot használhatod erre a célra egy konzolos linux környezetben? (max 2 pont)
+ g: Melyik linux parancs segítségével lehet egy fájlról másolatot készíteni? (max 1 pont)
+ h: Melyik linux parancs segítségével lehet egy fájlt átnevezni vagy áthelyezni? (max 1 pont)
+ i: Melyik linux parancs segítségével lehet egy vonat animációt megjeleníteni a konzolon? (max 1 pont)
+ j: Melyik linux parancs segítségével lehet egy szöveges állomány tartalmát a kijelzőre kiíratni? (max 1 pont)
+ k: Melyik linux parancs segítségével lehet megkérdezni azt, hogy melyik könyvtárban dolgozunk  jelenleg? (max 1 pont)
+ l: A cd parancsnak milyen paramétert kell megadni ahhoz, hogy egy könyvtárral feljebb lépjünk? (max 1 pont)
+
+
+ 2. Manuálok
+ a: Milyen szó szerepel a cp parancs manuáljának leírása részének második bekezdésének harmadik sorának harmadik szava. (max 3 pont)
+ b: Mi az email címe a cp manuáljának András nevű fordítójának? (max 5 pont)
+ c: Hány darab GNU opciója van a cp parancsnak? Minden opció csak egyszer számít, ahol egy opciónak több lehetősége van az 1 opciónak számít. (max 3 pont)
+ d: Mit csinál a man parancs -f kapcsoló (angolul)? (max 2 pont)
+ e: Van manuálja az info parancsnak? (max 2 pont)
+ f: Hány darab kapcsoloja van az mv parancsnak? Minden opció csak egyszer számít, ahol egy opciónak több lehetősége van az 1 opciónak számít. (max 2 pont)
+ g: Hány bekezdésből áll az mv parancs leírása? (max 1 pont)
+ h: Milyen karakter beírása után lehet keresni a manuálban? (max 1 pont)
+ i: Ha keresel egy kifejezést a manuálban akkor melyik gomb megnyomásával lehet több találat esetén a következőre ugrani? (max 3 pont)
+ j: Ha keresel egy kifejezést a manuálban akkor melyik gomb megnyomásával lehet több találat esetén a előző találatra ugrani? (max 3 pont)
+
+
+ 3. Környezeti változók
+TODO:
+ a: Milyen betűket lehet alkalmazni az angol abc-ből változók név adásánál? (max 1 pont)
+ ----
+ b: Milyen betűket lehet alkalmazni az angol abc-ből Környezeti változók név adásánál? (max 1 pont)
+
+ c: Tartalmazhat számot a változó nev?(válasz:igen/nem) (max 1 pont)
+
+ d: Melyik paranccsal tudod kilistázni az összes környezeti változót? (max 4 pont)
+
+ e: Melyik környezeti változóban van a legutoljára futtatott parancs? (max 5 pont)
+
+ f: Hogyan állítod be az ALMA környezeti változó értékét arra, hogy "alma"? (max 2 pont)
+
+ ABCDEFGHIKLMNOPQRSTVXYZ

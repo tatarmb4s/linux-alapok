@@ -2,7 +2,7 @@
 
 - parancs: `man`
 - kiléps: `q`
-- infó keresése: `shift+6`
+- infó keresése: `shift+6 = /`
   - következő: n
   - előző: N
   - fel lapozás: fel nyil
