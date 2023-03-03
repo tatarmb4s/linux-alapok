@@ -130,3 +130,11 @@ Egyszerre archivál, és töröl, mindent tud
 
 Feladat:
 /home/tanulo/archivalas.txt
+1. Csomagold ki a /home/tanulo/mc.tar.bz2 állományt a home könyvtáradba!
+2. a. Készíts .tar.gz tömörített archívumot az src könyvtárról src.tar.gz néven!
+   b. Készíts .tar.bz2 tömörített archívumot a config könyvtárról config.tar.bz2 néven!
+3. Archiváld a két tömörített fájlt mc.tar néven!
+4. Tömörítsd be .zip formátumba az mc.tar archívumot mc.zip néven!
+5. Hozd létre a home könyvtáradba az 'archiv' könyvtárat, és lépj bele!
+6. Csomagold ki ide a .zip fájlt, majd a benne lévő .tar-t, majd a benne levő .tar.bz2 fájlt!
+7. Kicsomagolás NÉLKÜL keress rá a "[Cc]ommander" kifejezésre mindkét csomagban!
