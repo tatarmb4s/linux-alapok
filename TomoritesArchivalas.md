@@ -14,31 +14,31 @@ Egyszerre archivál, és töröl, mindent tud
 
 ### Archiválás
 - Archiválás
-    tar -cvf <name>.tar <name>: <br>
-    `tar -cvf <name>.tar <name>`
+    tar -cvf <itemName> <name>.tar <br>
+    `tar -cvf <itemName> <name>.tar`
     - Kapcsolók:
       - `-c` create: létrehozza az archívumot
       - `-v` verbose: mutatja mit csinál
       - `-f` file: fájlba írja
 - Archiválás tömörítve
-    tar -czvf <name>.tar.gz <name>: <br>
-    `tar -czvf <name>.tar.gz <name>`
+    tar -czvf <itemName> <name>.tar.gz <br>
+    `tar -czvf <itemName> <name>.tar.gz`
     - Kapcsolók:
       - `-c` create
       - `-z` gzip: tömörítési algoritmus
       - `-v` verbose
       - `-f` file
 - Archiválás tömörítve
-    tar -cjvf <name>.tar.bz2 <name>: <br>
-    `tar -cjvf <name>.tar.bz2 <name>`
+    tar -cjvf <itemName> <name>.tar.bz2 <br>
+    `tar -cjvf <itemName> <name>.tar.bz2`
     - Kapcsolók:
       - `-c` create
       - `-j` bzip2: tömörítési algoritmus
       - `-v` verbose
       - `-f` file
 - Archiválás tömörítve
-    tar -cJvf <name>.tar.xz <name>: <br>
-    `tar -cJvf <name>.tar.xz <name>`
+    tar -cJvf <itemName> <name>.tar.xz <br>
+    `tar -cJvf <itemName> <name>.tar.xz`
     - Kapcsolók:
       - `-c` create
       - `-J` xz
