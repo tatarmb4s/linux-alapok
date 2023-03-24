@@ -3,7 +3,7 @@
    1) saját hostname kell: (config)# `hostname <name>`
    2) saját egyedi name: sudn
       1) Kell saját domain name, és hostname
-      2) cmd: `ipv domain-name <test.lan>`
+      2) cmd: `ip domain-name <test.lan>`
    3) SSH generálás és titkosítás: RSA algoritmus
       1) cmd: `crypto key generate rsa`
       2) biztonságos cmd `crypto key generate rsa general-keys modulus <360-4096, avg: 2048>`
