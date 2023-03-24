@@ -24,4 +24,4 @@
 
 2) belépés
    1) ciscos gépről:
-      1) cmd: `ssh -i <name>@<ip>`
+      1) cmd: `ssh -l <name>@<ip>`
