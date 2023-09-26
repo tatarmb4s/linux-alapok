@@ -1,22 +1,25 @@
 # Linux alapok: parancsok és miegymás
 ## Néhány jó tanács
-1. Ha valamit keresel, javaslom figyelmedbe a CTRL+F kombinácót. 
-2. Nézd meg azt a file-t amilyen témában keresel, viszonylag beszédesek a file nevek.
-3. Ha nem tudod hol keress, akkor ezen az oldalon használd a CTRL+F-et, és írd be a keresett szót. Ezen bekezdések alá beillesztek mindent, amit a többi readme tartalmaz. A legtöbb hasznos infó a [puska.md] file-ban, és az [oraiJegyzetek] mappában van.
-4. A dolgokat új lapon nyisd meg ellenkező kattal, hogy ne kelljen várni az oldalak betöltését.
-5. Javaslom a stackowerflow használatát, és a google-jét, angolul, a linux + <probléma> kulcsszóval.
-6. Sok szerencsét.
+1. 11. Oklevelesek jegyzetei: [oraiJegyzetek-11-okleveles-2023_2024]
+2. Ha valamit keresel, javaslom figyelmedbe a CTRL+F kombinácót. 
+3. Nézd meg azt a file-t amilyen témában keresel, viszonylag beszédesek a file nevek.
+4. Ha nem tudod hol keress, akkor ezen az oldalon használd a CTRL+F-et, és írd be a keresett szót. Ezen bekezdések alá beillesztek mindent, amit a többi readme tartalmaz. A legtöbb hasznos infó kezdőknek a [puska.md] file-ban, és az [oraiJegyzetek-10c-2022_2023] mappában van.
+5. A dolgokat új lapon nyisd meg ellenkező kattal, hogy ne kelljen várni az oldalak betöltését.
+6. Javaslom a stackowerflow használatát, és a google-jét, angolul, a linux + <probléma> kulcsszóval.
+7. Sok szerencsét.
 
 ## Gyorslinkek:
+- [oraiJegyzetek-11-okleveles-2023_2024] - 11. Oklevelesek órai jegyzetek
 - [puska.md] - A legtöbb hasznos infó és parancs: pl. mappakezelés, fájlszerkeztés
-- [oraiJegyzetek] - mappa
+- [oraiJegyzetek-10c-2022_2023] - mappa
 - [dogaparancs.md] - hasonló parancs mint ahogyan a doga megy majd
 - [linux_bevezeto] - linux bevezető
 - [manual_hasznalata.md] - a programok manuáljának használata
 
 
 [puska.md]: https://github.com/tatarmb4s/linux-alapok/blob/master/puska.md
-[oraiJegyzetek]: https://github.com/tatarmb4s/linux-alapok/tree/master/oraiJegyzetek
+[oraiJegyzetek-10c-2022_2023]: https://github.com/tatarmb4s/linux-alapok/tree/master/oraiJegyzetek-10c-2022_2023
+[oraiJegyzetek-11-okleveles-2023_2024]: https://github.com/tatarmb4s/linux-alapok/tree/master/oraiJegyzetek-11-okleveles-2023_2024
 [dogaparancs.md]: https://github.com/tatarmb4s/linux-alapok/blob/master/oraiJegyzetek/dogaparancs.md
 [linux_bevezeto]: https://github.com/tatarmb4s/linux-alapok/blob/master/oraiJegyzetek/linux_bevezeto.md
 [manual_hasznalata.md]: https://github.com/tatarmb4s/linux-alapok/blob/master/oraiJegyzetek/manual_hasznalata.md

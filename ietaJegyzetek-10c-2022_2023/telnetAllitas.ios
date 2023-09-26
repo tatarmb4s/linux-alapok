@@ -1,0 +1,14 @@
+enable
+configure
+
+
+username us password pw
+interface vlan 1
+ip address 9.0.0.2 255.0.0.0
+no shutdown
+exit
+line vty 0 15
+login local
+transport input telnet
+exit
+
