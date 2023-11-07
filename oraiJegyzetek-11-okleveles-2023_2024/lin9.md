@@ -1,0 +1,33 @@
+# Virtualizáció
+
+- Virtuális technológiák
+  - Teljes értékű: ESXi, HyperV, VirtualBox, KVM
+    - van kerneljük
+  - Konténerek: Lxc, OpenVZ, Docker, Kubernetes
+    - nincs kerneljük
+    - Több féle könténer technológia van:
+      - Lxc, OpenVZ: Linux konténerek, sok dolog futhat bennük
+      - Docker: van egy fő szolgáltatás, ami fut, gyakorlatban 1 fő szolgáltatás fut benne.
+        - ha több szolgáltatást akarunk futtatni, akkor több konténer kell
+        - egy futtatásra kész image
+          - egy image-ra több réteget lehet rakni
+            - pl egy image, ami egy ubuntu, és egy másik image, ami egy apache
+            - felülről lefelé halad rajta
+            - read only
+            - Szeretném futtatni:
+              - ráteszek még egy réteget, ami írható és olvasható lesz
+                - bármi fájl a programból itt jelenik meg
+                - ez a konténer
+                  - illékony, ideiglenes dolog.
+                  - nem szabad benne adatot tárolni
+                    - Ahhoz, hogy mégis megtartsak benne egy fájlt, csinálok benne egy kapcsolatot:
+                      - pl egy könyvtár a konténerben, ami egy könyvtárra mutat a hoston, tehát a hoston tárolom az adatot valójában
+                        - parans: `docker run -d user/img:ver -v /home/pisti/web:var/html -p 8080:80 -e "MYSQL_ROOT_PASSWORD=1234"`
+                          - Könyvtár kapcsolat:
+                            - /home/pisti/web: gazda oldali könyvtár
+                            - var/html: konténer oldali könyvtár
+                          - Port kapcsolat:
+                            - 8080: gazda oldali port
+                            - 80: konténer oldali port
+                          - Környezeti változó:
+                            - `-e`
